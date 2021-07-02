@@ -1,1 +1,1 @@
-# HackMoney
+# Defuma: decentralized fund management
